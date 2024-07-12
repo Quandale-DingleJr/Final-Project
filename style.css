@@ -396,9 +396,6 @@ figcaption{
     #boxes{
         border-bottom-right-radius: 30px;
     }
-    .menu-toggle{
-        display: none;
-    }
     .sidebar{
         border-radius: 20px 0 0 20px;
         border: 1px solid white;
